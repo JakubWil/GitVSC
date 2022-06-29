@@ -31,3 +31,4 @@
 
 5. Merge 
 - jesli zrobie merge to zmiany beda w stage2 , musze je commit aby byly trwale na branch gdzie chcee je miec 
+- jak zrobie zmiany commit to mam wtedy ich commit 
