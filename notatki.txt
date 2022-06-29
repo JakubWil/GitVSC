@@ -1,0 +1,13 @@
+1. Sprawdzic działąnie git w vsc 
+    - jak podłaczyc pod projekt remote reposityory oraz gdzie domyslnie jest push
+    - jak add i commit 
+    - jak działaja branche 
+    - sprawdzic dzialanie komend z kartki 
+    - jak dzila git clone 
+
+2. Jak działą add i commit : 
+    - w zakładce source control, jest to jakby git status 
+    - tam jesli cos dodam, zmodyfikuje , usudne itd odrazu sie pojawia 
+    - aby z untraccked dodad do tracked klikam + 
+    - aby z tracked dac na untracked klikam - 
+    - jak zmodyfikuje to znow musze + , wtedy tez wyswietla sie okno do porownywania ktrora wersja ma pozostac 
