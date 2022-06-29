@@ -17,4 +17,4 @@
       chce wyslac zmiany. Musze wczesniej dodac zewnetezne repozytoria w terminalu. 
 
 3. Podłącznie zewnetrznego repozytorium.
-    - 
+    - dodaje repo w terminalu 
