@@ -18,3 +18,14 @@
 
 3. Podłącznie zewnetrznego repozytorium.
     - dodaje repo w terminalu 
+    - aby wybrac do, ktorego chcee wyslac zmiany to klikam ... i tam mam push to i wybierma z pośród tych repo, ktore sa dodane
+    - wysyła sie cały branch na ktorym jestem, nie tylko ostatni commit, chyba, że tylko zmianty tam były to to sie zaktualizuje
+    - jeslo bede na innym branch to wysla sie zmiany tylko z tego branch na tez tylo ten drugi branch w zdalnym repo, 
+      tak sami to działa gdy robie pull 
+
+4. Tworzenie nowego branch
+    - klikam ... -> create branch, odrazu mnie na niego przełaczy, i rzeczy, ktore były w branch master tez odrazu beda na nowym branch 
+    - gdy wprowadze zmaint na nowym branch, nie beda one widoczne na master, musze zrobic merge aby przensic te zmiany, tylko 
+    musze je dodac do stage2 i zakomitowac, bo jak nie to master bedzie je widziec do momentu az chyba nie beda commit. tak
+    jesli dodam cos na branch2 i nie zrobie add i commit to bedzie to widoczne na master i jak tam zrobie commit tego to juz nie bedzie na branch2 i na odwrot.
+
