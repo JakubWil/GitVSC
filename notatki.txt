@@ -12,4 +12,9 @@
     - aby z tracked dac na untracked klikam - 
     - jak zmodyfikuje to znow musze + , wtedy tez wyswietla sie okno do porownywania ktrora wersja ma pozostac 
     - jak dam na górze dziubek , to kazda rzecz, ktora była w stage2 bedzie dodana do 1 commita, wtedy daje tez messeage commit 
+    - jak zrobie modyfikacje w tym pliku, to ten plik juz bedzie w stage2 , ale aby wprowadzic zmiany znow musze commit nowy
+    - gdy zmiany chce wyslac na zewnetrze repozytorium klikam Publish Branch , wtedy wybieram sobie na ktore zewnetrze repo 
+      chce wyslac zmiany. Musze wczesniej dodac zewnetezne repozytoria w terminalu. 
+
+3. Podłącznie zewnetrznego repozytorium.
     - 
