@@ -11,3 +11,5 @@
     - aby z untraccked dodad do tracked klikam + 
     - aby z tracked dac na untracked klikam - 
     - jak zmodyfikuje to znow musze + , wtedy tez wyswietla sie okno do porownywania ktrora wersja ma pozostac 
+    - jak dam na górze dziubek , to kazda rzecz, ktora była w stage2 bedzie dodana do 1 commita, wtedy daje tez messeage commit 
+    - 
