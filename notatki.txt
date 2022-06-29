@@ -29,3 +29,5 @@
     musze je dodac do stage2 i zakomitowac, bo jak nie to master bedzie je widziec do momentu az chyba nie beda commit. tak
     jesli dodam cos na branch2 i nie zrobie add i commit to bedzie to widoczne na master i jak tam zrobie commit tego to juz nie bedzie na branch2 i na odwrot.
 
+5. Merge 
+- jesli zrobie merge to zmiany beda w stage2 , musze je commit aby byly trwale na branch gdzie chcee je miec 
