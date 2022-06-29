@@ -1,7 +1,7 @@
 1. Sprawdzic działąnie git w vsc 
-    - jak podłaczyc pod projekt remote reposityory oraz gdzie domyslnie jest push
-    - jak add i commit 
-    - jak działaja branche 
+    - jak podłaczyc pod projekt remote reposityory oraz gdzie domyslnie jest push X
+    - jak add i commit X
+    - jak działaja branche X
     - sprawdzic dzialanie komend z kartki 
     - jak dzila git clone 
 
@@ -31,4 +31,4 @@
 
 5. Merge 
 - jesli zrobie merge to zmiany beda w stage2 , musze je commit aby byly trwale na branch gdzie chcee je miec 
-- jak zrobie zmiany commit to mam wtedy ich commit 
+- jak zrobie zmiany commit to mam wtedy ich commit tylko musze w terminal das commit message dla merge 
