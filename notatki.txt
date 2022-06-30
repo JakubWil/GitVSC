@@ -15,7 +15,9 @@
     - jak zrobie modyfikacje w tym pliku, to ten plik juz bedzie w stage2 , ale aby wprowadzic zmiany znow musze commit nowy
     - gdy zmiany chce wyslac na zewnetrze repozytorium klikam Publish Branch , wtedy wybieram sobie na ktore zewnetrze repo 
       chce wyslac zmiany. Musze wczesniej dodac zewnetezne repozytoria w terminalu. 
-      - message commit moge zrobic wpisujac tam pod dzubkiem jesr miejsce na to 
+    - message commit moge zrobic wpisujac tam pod dzubkiem jesr miejsce na to 
+    - moge tez discard changes, jak modyfikuje cos, to wtedy jak klikne na to to pokazuje mi wersje przed i obecna zmodyfikowana
+      jak dam taka strzalke odwrcona to wtedy moge odrzucic zmiany 
 
 3. Podłącznie zewnetrznego repozytorium.
     - dodaje repo w terminalu 
@@ -29,6 +31,7 @@
     - gdy wprowadze zmaint na nowym branch, nie beda one widoczne na master, musze zrobic merge aby przensic te zmiany, tylko 
     musze je dodac do stage2 i zakomitowac, bo jak nie to master bedzie je widziec do momentu az chyba nie beda commit. tak
     jesli dodam cos na branch2 i nie zrobie add i commit to bedzie to widoczne na master i jak tam zrobie commit tego to juz nie bedzie na branch2 i na odwrot.
+    - w lewym dolnym rogu mam pokazane na ktorym branch jestem , tam moge tez stworzyc nowy 
 
 5. Merge 
 - jesli zrobie merge to zmiany beda w stage2 , musze je commit aby byly trwale na branch gdzie chcee je miec 
