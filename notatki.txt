@@ -43,4 +43,4 @@
 7. Konflikty
  - jesli wystapia to w source control bedzie obok pliku gdzie jest konflikt C
  - i w tym pliku bede mial incoming change i current change 
- - wybieram opcje z gory kotra chce np accept current change , accept incomig 
+ - wybieram opcje z gory kotra chce np accept current change , accept incomig itd i to tyle
