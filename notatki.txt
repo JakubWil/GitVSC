@@ -15,6 +15,7 @@
     - jak zrobie modyfikacje w tym pliku, to ten plik juz bedzie w stage2 , ale aby wprowadzic zmiany znow musze commit nowy
     - gdy zmiany chce wyslac na zewnetrze repozytorium klikam Publish Branch , wtedy wybieram sobie na ktore zewnetrze repo 
       chce wyslac zmiany. Musze wczesniej dodac zewnetezne repozytoria w terminalu. 
+      - message commit moge zrobic wpisujac tam pod dzubkiem jesr miejsce na to 
 
 3. Podłącznie zewnetrznego repozytorium.
     - dodaje repo w terminalu 
